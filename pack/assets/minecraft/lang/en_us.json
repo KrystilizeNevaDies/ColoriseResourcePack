@@ -1,9 +1,8 @@
 {
-    "menu.game": "\uE003\uF801\uE004",
-    "menu.returnToGame": "§fReturn to §d§lEmortalMC",
-    "menu.shareToLan": "§f§7mc.emortal.dev",
+    "menu.game": "Kulorised",
+    "menu.returnToGame": "§fReturn to §d§lKulorised",
     "menu.disconnect": "§f§c§lDisconnect",
-    "title.multiplayer.other": "EmortalMC",
+    "title.multiplayer.other": "Kulorised",
     "menu.sendFeedback": "§f§7Give Feedback",
     "menu.reportBugs": "§f§7Report Bugs",
     "menu.playerReporting": "§f§7Antisocial Menu",
