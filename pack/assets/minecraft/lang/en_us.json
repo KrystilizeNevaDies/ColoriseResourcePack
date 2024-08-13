@@ -1,0 +1,14 @@
+{
+    "menu.game": "\uE003\uF801\uE004",
+    "menu.returnToGame": "§fReturn to §d§lEmortalMC",
+    "menu.shareToLan": "§f§7mc.emortal.dev",
+    "menu.disconnect": "§f§c§lDisconnect",
+    "title.multiplayer.other": "EmortalMC",
+    "menu.sendFeedback": "§f§7Give Feedback",
+    "menu.reportBugs": "§f§7Report Bugs",
+    "menu.playerReporting": "§f§7Antisocial Menu",
+    "gui.advancements": "§f§7Achievements",
+    "gui.stats": "§f§7Statistics",
+    
+    "item.minecraft.leather_helmet": "Sunglasses"
+}
