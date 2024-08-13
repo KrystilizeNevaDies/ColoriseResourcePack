@@ -28,12 +28,11 @@ jobs:
 
     - name: Create Release
       id: create_release
-      uses: actions/create-release@v1
+      uses: softprops/action-gh-release@v2
       env:
         GITHUB_TOKEN: ${{ secrets.RESOURCE_ZIPPER }}
       with:
         tag_name: release-${{ github.sha }}
-        release_name: Release ${{ github.sha }}
         draft: false
         prerelease: false
 
