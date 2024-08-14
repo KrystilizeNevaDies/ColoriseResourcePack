@@ -8,6 +8,8 @@
     "menu.playerReporting": "§f§7Antisocial Menu",
     "gui.advancements": "§f§7Achievements",
     "gui.stats": "§f§7Statistics",
-    
+
+    "advancements.toast.task": "§f§7Kulorised",
+
     "item.minecraft.leather_helmet": "Sunglasses"
 }
